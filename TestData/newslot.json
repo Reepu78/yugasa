@@ -1,0 +1,17 @@
+
+[{  
+    "key" : "@product",
+    "name":"product",
+    "values" :["bucket", "cooker", "butter", "shirt", "glasses", "milk", "chocolate", "shoes", "sneakers", "running shoes"],
+    "regex":false
+},{  
+    "key" : "@brand",
+    "name":"brand",
+    "values" :["nike", "addidas", "amul", "mango", "cadbury", "ray ban"],
+    "regex":false
+},{
+    "key" : "order_id",
+    "name":"orderid",
+    "values" :["[a-zA-Z]+[_][0-9]+"],
+    "regex":true
+}]

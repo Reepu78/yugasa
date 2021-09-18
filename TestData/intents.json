@@ -1,0 +1,1378 @@
+{
+  "intents": [
+    {
+      "tag": "Upcoming events",
+      "entities": [],
+      "responses": [
+        "Check out our upcoming events <a href='https://www.psb-academy.edu.sg/virtual-notice-board' target ='_blank'>here</a>. In light of Covid-19, most of our events are held online until further notice."
+      ],
+      "patterns": [
+        "What are the upcoming events?",
+        "Which event is happening now?",
+        "I want to know about the upcoming events",
+        "Any events this month?",
+        "Curious about upcoming events",
+        "Upcoming events",
+        "Is there any upcoming event?",
+        "I want to know if there is any event planned in this month",
+        "Are there events held on campus",
+        "Are there events held physically?",
+        "Are the events online now?",
+        "Do you have webinars?",
+        "Do you have career events?",
+        "Do you have career fair?",
+        "When is your open house?",
+        "What events do you have?",
+        "what events do you have"
+      ]
+    },
+    {
+      "tag": "Funding",
+      "entities": [],
+      "responses": [
+        "To make studies affordable and accessible, PSB Academy works with several associations and government agencies to support students financially. Find out more about our course fundings <a href='https://www.psb-academy.edu.sg/course-fundings' target='_blank'>here</a>. We also offer  <a href='https://www.psb-academy.edu.sg/courses/scholarship-application' target ='_blank'>scholarships</a> to students who qualify."
+      ],
+      "patterns": [
+        "Is there an option for course funding?",
+        "I need funding support",
+        "Is there financial help available?",
+        "I need monetary help for my studies",
+        "I cannot afford high fees",
+        "Your courses are very costly",
+        "Are your courses costly?",
+        "I heard that fee of PSB is very high",
+        "Do you have any course fee support schemes?",
+        "IRAS course fees relief",
+        "Do your courses have skills future?",
+        "What is NTUC UTAP?",
+        "Any option for poor students?",
+        "Are there any options for helping poor students?",
+        "Your courses are costly",
+        "PSB courses are pricey",
+        "Do you have any financial assistance scheme?",
+        "Can I get financial help?",
+        "Do you have course rebates?",
+        "Course fee rebates",
+        "Financial assistance scheme",
+        "Can I use my skills future?",
+        "Do you have scholarship?",
+        "Can I apply for a scholarship?",
+        "Scholarship",
+        "Do you have government support?",
+        "usually when do we know if our scholarship is approved",
+        "soholarship",
+        "Oversea student able to loan payment?"
+      ]
+    },
+    {
+      "tag": "Class info",
+      "entities": [],
+      "responses": [
+        "For information on the date, time and location of our upcoming classes, please click <a href='https://portal.psb-academy.edu.sg/OnlineCourseDisplay/' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "What time is my class?",
+        "Class time",
+        "Timetable",
+        "What will be the class timing for tomorrow?",
+        "I'm new to the campus and I don't know the class timings",
+        "I don't know my classroom",
+        "Where I can get the timetable for today?",
+        "Where is my classroom?",
+        "Where is the class timetable?",
+        "What time is my lecture?",
+        "What time is my tutorial?",
+        "Where is my lecture?"
+      ]
+    },
+    {
+      "tag": "Alumni engagement",
+      "entities": [],
+      "responses": [
+        "If you'd like to view our alumni stories, please click <a href='https://www.psb-academy.edu.sg/campus-life/student-stories#alumni'  target='_blank'>here</a>. If you're an alumni yourself and would like to receive updates, please write to us at: alumni@psb-academy.edu.sg."
+      ],
+      "patterns": [
+        "Can I see the list of alumni?",
+        "What does your alumni say about you?",
+        "Old students of PSB",
+        "What have PSB graduates done?",
+        "Alumni at PSB",
+        "Alumni",
+        "Alumni engagement",
+        "How can I be a part of the alumni family?",
+        "I'm an alumni and would like to get updates",
+        "Where are your graduates now?",
+        "Do you have alumni engagement?",
+        "Do you have updates for alumni?",
+        "Can I keep in touch as an alumni?",
+        "What is PSB alumni doing now?",
+        "What are PSB graduates doing now?",
+        "Where are PSB graduates now?"
+      ]
+    },
+    {
+      "tag": "Campus life",
+      "entities": [],
+      "responses": [
+        "With a wide array of student clubs and activities, life is never dull at PSB Academy. Beyond that, we also provide support for our students' well-being. Find out more <a href='https://www.psb-academy.edu.sg/campus-life' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "Student club",
+        "What is your campus like?",
+        "How is the campus environment?",
+        "What are the activities on campus?",
+        "Is the campus life at PSB exciting?",
+        "How is the campus life at PSB?",
+        "Learning support for students",
+        "Is there any personal counselling support?",
+        "Does PSB provide health related help?",
+        "What are the campus facilities at PSB?",
+        "What activities do students do at PSB?",
+        "Tell me about student life at PSB",
+        "Do you have a student club?",
+        "What's the campus life at psb like?",
+        "Is there a campus life?",
+        "Does psb provide student support?",
+        "how to join clubs",
+        "Is there a volleyball club?",
+        "Volleyball club"
+      ]
+    },
+    {
+      "tag": "Contact us",
+      "entities": [],
+      "responses": [
+        "For general enquiries, you can call us via +65 6390 9000 or email us at contactus@psb-academy.edu.sg. If you'd like to enquire about our courses, please fill up the form <a href = 'https://www.psb-academy.edu.sg/courses' target ='_blank'> here</a> and our course consultant will get back to you shortly."
+      ],
+      "patterns": [
+        "What is your contact number?",
+        "What is your email address?",
+        "Email address",
+        "Phone number",
+        "Contact number",
+        "Mobile number",
+        "Cell number",
+        "How can I reach you?",
+        "How can I contact you?",
+        "Do you have an email address?",
+        "Other enquiries",
+        "I have other enquiries",
+        "I tried to call PSB but no respond",
+        "hi.. may i know attire required at stem campus?",
+        "any dress code at stem campus?",
+        "What is the no to call the psb academy ",
+        "Hello, i wanted to get in touch with the reception if possible, I",
+        "We are a hotel who is looking for students as intern ",
+        "Hi can i please get a receipt for the payment?",
+        "Student complaint",
+        "Others",
+        "Let the network speed be faster",
+        "is there printers that i can use on STEM campus? "
+      ]
+    },
+    {
+      "tag": "Covid advisory",
+      "entities": [],
+      "responses": [
+        "Our classes are conducted face-to-face within our campuses in Singapore. However, in light of Covid-19, our classes (except for lab classes) are being held online. For updates on the resumption of physical classes, please click <a href='https://www.psb-academy.edu.sg/student-resources/covid-19-advisory' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "Classes start",
+        "Have you re-opened the campus after Covid -19?",
+        "Are you still under covid lockdown now?",
+        "Have physical classes started?",
+        "Is the campus open after covid?",
+        "What are covid safety measures being taken by PSB?",
+        "What are the hygiene measures being taken during covid 19?",
+        "Can I visit the campus if I'm unwell or show flu-like symptoms?",
+        "Is PSB open now?",
+        "Have you opened the campus after covid?",
+        "Do you have physical classes now?",
+        "Are online classes available?",
+        "Can we attend live classes from home?",
+        "I want to know about the covid situation",
+        "Are classes online or physical?",
+        "Online classes",
+        "Are your classes held in classrooms?",
+        "Are your classes held on campus",
+        "Blended learning",
+        "How are classes conducted now?",
+        "Are classes still online?",
+        "I would love to study online ",
+        "Is school going to be online?",
+        "how to in online study?",
+        "online learning",
+        "online courses",
+        "is this program taught in singapore ?",
+        "when campus will be reopen"
+      ]
+    },
+    {
+      "tag": "Why PSBA",
+      "entities": [],
+      "responses": [
+        "Once known as Singapore’s Productivity and Standards Board, PSB Academy is one of Singapore's leading private education institutions today.  We have a diverse community of students as well as a teaching, learning and networking environment that will enable you to be a Future Maker. In 2019, the Academy was conferred “Best Educational Institute – Singapore” by APAC Insider."
+      ],
+      "patterns": [
+        "Why should I join PSB academy?",
+        "Why should I choose you?",
+        "Why PSB academy?",
+        "Tell me about PSB Academy",
+        "What is special about your institute?",
+        "How old is PSB Academy?",
+        "Why should I enrol at PSB?",
+        "Tell me something about PSB",
+        "Why choose PSB?",
+        "Please tell me about PSB",
+        "What is PSB?",
+        "Who is PSB?",
+        "What is PSB Academy?",
+        "What is PSB all about?",
+        "Is PSB a school?",
+        "I would like to get the full meaning of PSB",
+        "Give me more reasons",
+        "Hi May I know PSB academy is under SDF singapore? ",
+        "accolade",
+        "awards"
+      ]
+    },
+    {
+      "tag": "University partners",
+      "entities": [],
+      "responses": [
+        "Our awarding institutions include distinguished university partners from the UK, Australia and New Zealand. Click <a href='https://www.psb-academy.edu.sg/courses#awarding-institutions' target ='_blank'>here</a> for more information."
+      ],
+      "patterns": [
+        "Who are your university partners?",
+        "Do you have any partners?",
+        "Which universities do you offer?",
+        "Where are your degree courses from?",
+        "Where is your degree from?",
+        "Which universities offer your degree courses?",
+        "University partners",
+        "Which are your universities?",
+        "Conventry university",
+        "university ",
+        "Edinburgh Napier University"
+      ]
+    },
+    {
+      "tag": "Venue rental",
+      "entities": [],
+      "responses": [
+        "We offer venue rental for some of our facilities such as classrooms and lecture theatres. For more information, please contact: Ms Joyce Chua (Tel: +65 6390 9198, Email: venue@psb-academy.edu.sg)."
+      ],
+      "patterns": [
+        "Who to contact about venue rental?",
+        "Can I rent your campus facilities?",
+        "Is your lecture theater available for rent?",
+        "Do you rent out the campus space for events?",
+        "Can I organise an event in your campus?",
+        "I want to hire a meeting room for one day ",
+        "Email for rental enquiries",
+        "Contact number for rental enquiries",
+        "Can I rent a lecture hall at PSB?",
+        "How can I rent a hall in your campus?"
+      ]
+    },
+    {
+      "tag": "How to apply",
+      "entities": [],
+      "responses": [
+        "To apply for a course, you can make an online or hardcopy submission at your own convenience. Find out more <a href='https://www.psb-academy.edu.sg/prospective-students/how-to-apply' target='_blank'>here</a>."
+      ],
+      "patterns": [
+        "How can I apply for a course?",
+        "How to apply for PG programme?",
+        "What is the application process for diploma course?",
+        "I'm not sure how to apply for any course",
+        "Is there anyone who can help me apply for a course?",
+        "How can I submit my application?",
+        "Admission process",
+        "I'm looking for admission at PSB",
+        "How can I get enrolled for a course at PSB?",
+        "How to enroll for a course?",
+        "What is the admission process at PSB?",
+        "Can you tell about admissions at PSB?",
+        "How to apply for diploma course?",
+        "How to apply for degree course?",
+        "How to apply for a course?",
+        "Apply for a course",
+        "Apply for a programme",
+        "How do i apply ",
+        "I want to apply",
+        "I need help applying"
+      ]
+    },
+    {
+      "tag": "course_enquiry",
+      "entities": [],
+      "responses": [
+        "trigger_course enquiry tree"
+      ],
+      "patterns": [
+        "What courses do you have?",
+        "I want to know about the diploma courses you have",
+        "What courses do you offer graduate students?",
+        "Do you offer PG courses?",
+        "Master's degree",
+        "Short professional courses",
+        "Can you share the list of courses you offer?",
+        "List of programmes",
+        "Different types of programmes",
+        "Please tell me about your postgraduate programmes",
+        "Do you have a course in cyber security?",
+        "Programmes offered by PSB Academy",
+        "I want to know more about certificate programmes",
+        "Details of course",
+        "courses",
+        "programs",
+        "programmes",
+        "Which is the best course for me?",
+        "I am looking for a certificate course",
+        "Do you have sports science courses?",
+        "Information on courses",
+        "Course information",
+        "Computer science",
+        "What course can I take?",
+        "I am looking for course enrollment",
+        "What course can I take?",
+        "Which are the courses I can take?",
+        "Do you offer postgraduate courses?",
+        "List of courses",
+        "Diploma",
+        "Degree",
+        "Do you offer degree courses?",
+        "Do you offer diploma courses?",
+        "Short courses",
+        "I'm looking for a course",
+        "I want to ask about your courses",
+        "im looking for a course",
+        "course enquiries",
+        "coudses",
+        "coursed",
+        "I need to get enrolled in a course",
+        "I want to sign up for a course",
+        "I'm looking for a diploma",
+        "I am Looking for a Diploma masters in your academy",
+        "Certificate course",
+        "For Elecrticen certificate course",
+        "Studying part time",
+        "I will like know more about supply chain management",
+        "Could u send mba finance brochure ",
+        "I want to do electrical diploma so what is the procedure?",
+        "Apply safety in construction",
+        "Hi did you guys got any part time diploma for business management or logistics management?",
+        "Can i apply police course",
+        "Any part time program related to net working",
+        "I am looking for a degree in logistics supply chain management with a minor in information technology ",
+        "I have study in academic",
+        " i am looking for master of dietion and nutrition",
+        "Hi I would like to know more about finance and banking course ",
+        "Professional engineer",
+        "I ami am looking electrical course ..",
+        "ACE personal trainer ",
+        "Ace certi",
+        "Building Facilities part time course ",
+        "Hello im looking at BACHELOR OF ARTS BUSINESS MANAGEMENT (TOP-UP)",
+        "Looking for elder caregiving course full time",
+        "BACHELOR OF SCIENCE (CYBER SECURITY)",
+        "Tourism and Hospitality",
+        "Is there have higher diploma available in Information technology ",
+        "Hi just to inquire about part time electro mechanical degree",
+        "Only short term English course",
+        "Hello im thinking to take the master degree from conventry university",
+        "hi may i know that did PSB academy provide bachelor of cybersecurity?",
+        "How can I do my ms in Singapore",
+        "nitec",
+        "I m searching for master degree in media and communications ",
+        "I want to apply for masters degree program in our institution",
+        "Hey any digital marketing course in your Academy",
+        "HI.  I am   I am a bachelor degree graduate of London Metropolitan University ， Can i apply   The University of Newcastle Australia MBA",
+        "Can i apply The University of Newcastle Australia MBA course？",
+        "ANY CIVIL ENGINEERING COURSE FOR PART TIME",
+        "hi i am interested in DIPLOMA IN BUSINESS ADMINISTRATION. ",
+        "diploma in business",
+        "post secondary ",
+        "Triggerpoint ",
+        "May I know if I can apply to the school degree course with other schools diploma cert ",
+        "do you have cooking lessons?",
+        "IGCSE exams ",
+        "Hi, My name is Saumya. Currently living in Singapore. I have done b pharm. in India and want to do the masters degree in Canada. Can you help me?",
+        "Hi I am interested on part time diploma study ",
+        "I am an undergraduate and I wanted to apply",
+        "I want to be badminton  level 1 coach. How  can i apply  for the course",
+        "Any weekend courses",
+        "do this college have graphic design?",
+        "I am interested in a course",
+        "ANY PART TIME COURSE FOR WORK PERMIT",
+        "i am a O level student and would like to stay a business course in PSB",
+        "May I know more about Diploma program for International student",
+        "Hi can check if I am diploma in food science and nutrition. local poly",
+        "Hi may I know when the applications will close for Bachelor",
+        "The australia uni can study in singaporw",
+        "any short course for hr?",
+        "Can higher noted ite graduates apply",
+        "what are the requirement for higher nitec holder",
+        "Cyber Security",
+        "I want to sturdy QA QC ",
+        "I want to school here in ur school ",
+        "business analytivs",
+        "I am looking course for my niece in India. Do you help with student visa?",
+        "Hi, May I can ask about Logistics course ",
+        "Can I be a biomedical engineer ",
+        "Hi, may i know more abt english course and tuition fee, thanks ",
+        "CERTIFICATE IN ENGLISH PROFICIENCY, how much",
+        "early childhood",
+        "Hi! I",
+        "Hi,  I would like to become a grab driver.  Does you guys supply for the English test as well? ",
+        "is there a part time degree for the bachelor of mechanical engineering (honours) course? ",
+        "Enquiry about masters?",
+        "I want to know mba",
+        "We want to know how and when should apply for university?",
+        "Hi my son got 1540 scores in AUG.SAT",
+        "Interested in sport course to be trainer. But cannot submit online enquiry as it just hang there",
+        "Is there course ",
+        "Sir,iam a construction worker.can I joined that M&E resident Technical officer course and I want to know the course durations with fees details thx",
+        "cybersecurity ",
+        "DIPLOMA IN NETWORK DEFENCE AND FORENSIC COUNTERMEASURES",
+        "I wish to enrol at stem campus ",
+        "Respected Madam/Sir, I am Archana Menon and I am currently pursuing my end semester of BTech in Electronics and Communication Engineering in India.I would like to apply for MSc in Engineering Business Management as my Post Graduation.My current academic details are given below: 10th Standard(State Syllabus) Percentage=89% 12th Standard(State syllabus) Percentage= 71.41% BTech in Electronics and Communication(as of 7th semester) CGPA(out of 10)=6.94 These are my academic qualifications.I would like to know if i am eligible to apply for the about course",
+        "If I’m A business student from Myanmar. And I wanna study business intelligence diploma. Do you have this program? If have, please let me know the requirements , duration and fees . Thanks. stephenmessic71247124@gmail.com",
+        "can secondary school students apply",
+        "higher nitec",
+        "How can i entoll for cctv trsining ",
+        "Can apply sdf",
+        "Can I check when is the deadline to apply for September intake 2021?",
+        "how to enroll",
+        "do you have LEW courses",
+        "I would like to apply hospitality course ",
+        "can i apply to take a full time degree now?",
+        "Hospitality management time table ",
+        "I wan to study ",
+        "Part time accounting course",
+        "MHA course is available?",
+        "AI intelligence course is available at psb",
+        "i want to enrol into psb",
+        "i want to prepare for ias  exam.",
+        "admissions",
+        "Life Sciences"
+      ]
+    },
+    {
+      "tag": "Academic consultation",
+      "entities": [],
+      "responses": [
+        "Need help with your studies or exams? You can consult your lecturers if you have any questions. To book an individual consultation, please click <a href='https://www.psb-academy.edu.sg/student-resources/academic-consultations' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "I'm having doubts in my studies",
+        "Who can clear my doubts regarding my course?",
+        "Who can help me to understand my course?",
+        "Who can I contact regarding my academics?",
+        "Can I call someone to clear my doubts?",
+        "Who can I consult regarding my course?",
+        "I want to ask about my lectures",
+        "Can someone clarify my doubts about my lecture?",
+        "I want to ask about my course work",
+        "I'm not sure about my lecture",
+        "I have difficulty with my lessons",
+        "I want to consult a lecturer",
+        "I want to consult lecturer",
+        "Ms Anna available?",
+        "I would like to seek help for the online exam of ec council"
+      ]
+    },
+    {
+      "tag": "career_enquiry",
+      "entities": [],
+      "responses": [
+        "Trigger_career enquiry tree"
+      ],
+      "patterns": [
+        "Do you have any job openings?",
+        "Can I join PSB as a staff?",
+        "I want to work for PSB",
+        "What are the placement opportunities at PSB?",
+        "Do you have training for new staff?",
+        "How can I become faculty at PSB?",
+        "What qualifications do I need to be a faculty at PSB?",
+        "Can I apply for a teaching post at PSB?",
+        "I want to apply for a teaching job",
+        "What jobs do you have?",
+        "I want to apply for a job at psb",
+        "Career",
+        "Job"
+      ]
+    },
+    {
+      "tag": "Greeting",
+      "entities": [],
+      "responses": [
+        "Hi there! How can I help you today?"
+      ],
+      "patterns": [
+        "Hi there",
+        "Hello",
+        "Hi",
+        "Good day",
+        "Good morning",
+        "Hey",
+        "I want to ask a question",
+        "I have a question",
+        "hii",
+        "Hii",
+        "Hlo"
+      ]
+    },
+    {
+      "tag": "fallback",
+      "entities": [],
+      "responses": [
+        "Oops! I didn't quite get that. Can you please rephrase your query?"
+      ],
+      "patterns": [
+        " "
+      ]
+    },
+    {
+      "tag": "Confused",
+      "entities": [],
+      "responses": [
+        "Sorry, we are not able to help you at the moment. Please enter another question and we'll try our best to answer it."
+      ],
+      "patterns": [
+        "What is this?",
+        "I didn't get you",
+        "I don't understand",
+        "What are you saying?",
+        "I am confused",
+        "What did you say?",
+        "You are confusing",
+        "You are not intelligent",
+        "I am done with you",
+        "No"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "entities": [],
+      "responses": [
+        "We hope that your questions have been answered. Goodbye and have a nice day!"
+      ],
+      "patterns": [
+        "by",
+        "Bye",
+        "Bbye",
+        "bbye",
+        "b bye",
+        "Bye bye",
+        "See you later.",
+        "Goodbye",
+        "quit",
+        "exit",
+        "tata",
+        "Good night"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "entities": [],
+      "responses": [
+        "You're most welcome :) Have a nice day!"
+      ],
+      "patterns": [
+        "Thanks",
+        "Thank you for your help.",
+        "That was helpful, thank you!",
+        "Thank you",
+        "Thnks",
+        "thanks",
+        "thank you",
+        "Thank you very much",
+        "I want to thank you!",
+        "That was helpful.. thanks!"
+      ]
+    },
+    {
+      "tag": "Campus location",
+      "entities": [],
+      "responses": [
+        "We have two campuses in Singapore: City Campus @ Marina Square and STEM Campus @ Jackson Square. Please click <a href='https://www.psb-academy.edu.sg/becoming-a-student/new-to-singapore/campus-locations' target='_blank'>here</a>  for the full address. Take a virtual tour of our campuses <a href='https://www.psb-academy.edu.sg/virtual-campus-tour/' target='_blank'>here</a> ."
+      ],
+      "patterns": [
+        "Where are you located?",
+        "Where is your campus?",
+        "Where is city campus?",
+        "Where is stem campus?",
+        "Are you centrally located?",
+        "Where is your location?",
+        "Where to find you?",
+        "Address",
+        "Location",
+        "How to visit you?",
+        "How to get to your campus?",
+        "I want to go to psb",
+        "May I know wer r u located at?",
+        "Access by? ",
+        "Where Can I study?",
+        "Hi ollie. Where are the courses conducted?",
+        "Which floor is this located at ",
+        "Campus ",
+        "loaction to study?",
+        "location to study",
+        "How your campus look like",
+        "How is your campus like",
+        "virtual campus tour"
+      ]
+    },
+    {
+      "tag": "Job prospects",
+      "entities": [],
+      "responses": [
+        "In 2020, almost 8 in 10 of our degree graduates were employed six months after examinations (<a href = 'https://www.psb-academy.edu.sg/why-psb-academy/#focus-on-employability' target ='_blank'>GES 2020</a>). Please visit the respective course pages to view the potential career opportunities."
+      ],
+      "patterns": [
+        "What can I do after I graduate from my course?",
+        "What can I do after my degree?",
+        "What can I do after my diploma?",
+        "What are your career prospects?",
+        "Do your courses have career prospect?",
+        "What job can I do after graduation?",
+        "Can I get a good job after graduation?",
+        "Career opportunities for graduates",
+        "Career opportunities after graduate",
+        "Career prospects after graduate",
+        "Career prospects",
+        "How is the employment rate after studying in PSB?",
+        "employment",
+        "what jobs can I get if i just do the cert?"
+      ]
+    },
+    {
+      "tag": "Are you recognised",
+      "entities": [],
+      "responses": [
+        "PSB Academy is registered with the Committee for Private Education (CPE), which is a requirement for all private schools under the Private Education Act. We are also EduTrust-certified, which recognises private schools for consistently maintaining a high standard of quality in education."
+      ],
+      "patterns": [
+        "Are your courses recognised?",
+        "Courses recognised",
+        "Are you a recognised institute?",
+        "Are your courses globally recognised?",
+        "Globally recognised",
+        "Recognised worldwide",
+        "Do employers recognise your courses?",
+        "Are the qualifications recognised?",
+        "Are you recognised in Singapore?",
+        "Is psb recognised?",
+        "are psb diplomas recognised ",
+        "Hi, can I check with you whether PSB Academy is recognized by government of Malaysia?"
+      ]
+    },
+    {
+      "tag": "Disciplines",
+      "entities": [],
+      "responses": [
+        "We offer certificate, diploma, degree, postgraduate and short courses in various disciplines. Find out more <a href='https://www.psb-academy.edu.sg/disciplines' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "Accounting course",
+        "Accounting & finance course",
+        "I want to study accounting",
+        "Do you offer accounting?",
+        "Finance course",
+        "Do you have accounting course?",
+        "Do you have business course?",
+        "I want to study business",
+        "Do you offer business course?",
+        "Business course",
+        "Do you have IT course?",
+        "Do you offer IT course?",
+        "IT course",
+        "I want to study IT course",
+        "Do you have science course?",
+        "I want to study science course",
+        "Do you offer science?",
+        "Science course",
+        "Do you offer engineering?",
+        "Do you have engineering course?",
+        "I want to study engineering",
+        "Engineering course",
+        "Is it possible to get Bachelor’s Degree here? "
+      ]
+    },
+    {
+      "tag": "Course info",
+      "entities": [],
+      "responses": [
+        "Please refer to the respective course page for information such as Course Structure, Admission Criteria, Intake Periods and Fees. Visit our course pages <a href = 'https://www.psb-academy.edu.sg/courses#find-a-course' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "When is the next intake?",
+        "How much is the course?",
+        "What are the tuition fees?",
+        "What is the entry requirement?",
+        "Is there a bridging course from polytechnic?",
+        "Bridging course from diploma",
+        "Progress from diploma",
+        "How much is the fee?",
+        "Progress from polytechnic",
+        "Direct entry",
+        "Direct entry from polytechnic",
+        "course fee",
+        "is the fees different for international students",
+        "minimum age requirement",
+        "course fees",
+        "how much is diploma",
+        "I would like to check how much is",
+        "what allows students direct entry to academic year 2?",
+        "direct entry to academic year",
+        "Duration of a course",
+        "Course duration",
+        "Im a o level student...i would like to continue with diploma is it possiblele",
+        "May I know part time diploma school fees?",
+        "When does your diploma commence?",
+        " Coventry University  BACHELOR OF SCIENCE WITH HONOURS IN ETHICAL HACKING AND CYBERSECURITY",
+        "Is there any entry requirements to apply for diploma courses?",
+        "What the price for Coventry MBA in global financial services?",
+        "When I graduate, I hold a high school diploma. Do you accept this?",
+        "when is the application period for part time degress",
+        "when does the application period open for part time degree",
+        "How do i view the course fees?",
+        "Qualification for taking degree in logistics and supply chain management?",
+        "Hi! May I know what the application period is for the Bachelor of Biomedical Sciences?",
+        "Hi can A level students apply cyber security course?",
+        "Can local Singaporean apply cyber security course after A levels?",
+        "For Local Singaporean ?",
+        "How much does it cost to complete my ms in Singapore",
+        "how to qualify for accounting course",
+        "accounting course qualification?",
+        "Hi may I know how much is the school fees?",
+        "when is admission for 2021",
+        "How many subjects in IGCSE ",
+        "What are the entry qualifications for Sports & exercise science TopUp",
+        "Hi, may I know diploma in mechanical engineering (part time),will be delivery in what kind of method?",
+        "Sorry , I need to know this course study time?",
+        "I like to know diploma in mechanical engineering (part time) is study in night time?",
+        "My name is Lia from Education Agent in Indoesia, i have a student from Ukraine who interest study at PSB Academy Certificate in Academic English, can i get the entry requirements of this student criteria",
+        "may I ask, the course and exam all in English?",
+        "Can I know when will be admission starting for Bachelor In EHS? ",
+        "How much will it cost to study at PSB academy?",
+        "Where can find course fees on wef page",
+        "fee",
+        "where to find course exemptions?",
+        "When is the intake for Diploma in Business Analytics?",
+        "if i only have a N level certificate what courses can i apply for",
+        "How many year do I need to study if I choose part time of bachelor of business accounting? elor ",
+        "Entry requirements for sports science diploma",
+        "How much is the course fee for part-time personal trainer certification",
+        "what are the requirements to apply",
+        "Look for fees",
+        "hello, can i use CPF to pay for my course fee?",
+        "Exemption",
+        "what are the local diploma in business accepted",
+        "when can i apply",
+        "Hi, can I use my skillfuture credit for HR Diploma "
+      ]
+    },
+    {
+      "tag": "speak_consultant",
+      "entities": [],
+      "responses": [
+        "Trigger_speak consultant tree"
+      ],
+      "patterns": [
+        "I want to speak to a consultant",
+        "Speak to course consultant",
+        "I want to find out more",
+        "Speak to a consultant",
+        "Can I speak to someone?",
+        "I want to speak to someone",
+        "Can I speak to a human?",
+        "Speak to a human",
+        "Can I speak to a person?",
+        "Speak to a person",
+        "Is anyone online?",
+        "Is anyone there?",
+        "I have more questions",
+        "speak to a consultant",
+        "How many hours are the courses",
+        "what is the best time to study",
+        "Hi, my qualifications is LCCI diploma, I am interested upgrade and get degree, what is the course that u will recommend to me. Thank you",
+        "Enquire about May intake ",
+        "Any suggestions whats the best thing to do? If i will get hotel and management courses ",
+        "Can I exempted from certain module?",
+        "LiveAgent",
+        "I’m not eligible for the courses according to the entry requirements. What should i do? ",
+        "I would like to know the difference between full time and part time for foundation in diploma life science ",
+        "is there an information here on how I could choose a pathway?",
+        "r u a robot",
+        "chat",
+        "When is best time for studying??",
+        "I would like to find out more about module exemptions",
+        "what jobs can I get if i just do the cert?",
+        "is the september 2021 intake still open for application?",
+        "I",
+        "Cn I hv details",
+        "Human ",
+        "closing date for july 2021 application",
+        "if i guardate from 2018 in certificate business admin, if i want to continue my diploma this year, do i still need to pay for the application fees?",
+        "May I know if i",
+        "I am an average student .so, which tine is perfect for me in studies. can you please help !me .",
+        "can i speak to your consultant?",
+        "Enquiry",
+        "What is the deadline for September intake?",
+        "Is this degree acredited and can be bridged as a criteria for a Master’s degree after graduation?",
+        "How many days for school in part time studies?",
+        "enrolment status",
+        "hi is there NS deferment for full time students",
+        "What if i failed y english",
+        "ns deferment",
+        "i have stop school awhile",
+        "Will i be able to apply government uni once I graduate?",
+        "Hi may I know when the applications will close for Bachelor",
+        "Do i need a consultant before applying to study? ",
+        "Hi, may I check if WPLN is equivalent to diploma criteria? ",
+        "Certificate to diploma",
+        "speek to a consultant",
+        "I want to connect with consultant",
+        "what is the total credits required to pass Coventry University MBA? ",
+        "Hello, I would like of ind out if the diploma I obtained from PSB academy is equivalent to an associates degree",
+        "can i get connected to any member of staff please ",
+        "I wanted to know about the visa status for my daughter Gayathri",
+        "If I",
+        "that page didn",
+        "Would like to enquiry LCCI",
+        "Is there skills future support for the 2 day data analysis for business course ? ",
+        "Deadline for application",
+        "What does Re-coursework mean? Does it mean repeat the whole course?",
+        "I would like to know the deadline of application process",
+        "When does admissions close",
+        "can a sim foundation cert be used to apply for a diploma in psb",
+        "is there anyone who can answer my question?",
+        "is it possible to study at UON Australia campus?",
+        "Can I move to New Zealand from after finishing diploma in PSB academy for sports science degree ",
+        "how about for a university transfer"
+      ]
+    },
+    {
+      "tag": "International Students",
+      "entities": [],
+      "responses": [
+        "International students are welcome to apply for our full-time courses. Click <a href = 'https://www.psb-academy.edu.sg/apply-now/international-students/' target ='_blank'>here</a> to find out more. You may also fill up the form on the page and our course consultants will get in touch with you."
+      ],
+      "patterns": [
+        "Can international students apply?",
+        "What do international students need to apply?",
+        "I'm an international student. How can I study at psb?",
+        "International student",
+        "I'm a student's pass holder",
+        "Do I need a student's pass?",
+        "Entry requirement for international students",
+        "International student at psb",
+        "Can foreigners apply?",
+        "Courses for foreigners",
+        "Hi Malaysian can still apply for part time HR courses in Singapore",
+        "International student apply part time",
+        "Hi Malaysian can still apply for part time HR courses in Singapore ",
+        "hi i’m from indonesia, can i study in PSB academy? what do i need to apply? ",
+        "do spm can  apply the IT course",
+        "I want to study in psb in Singapore ",
+        "oversea",
+        "Im Malaysian ",
+        "i stay outside singapore and wish to get a postgraduate degree or graduate certificate under PSB academy. is it possible? since it is very not possible for me to travel overseas.",
+        "I would like to know if I can attend Psb academy",
+        "hello my name is david and I am a Korean student"
+      ]
+    },
+    {
+      "tag": "Opening hours",
+      "entities": [],
+      "responses": [
+        "Click <a href = 'https://www.psb-academy.edu.sg/contact-hours' target ='_blank'>here</a> to view our opening hours. As part of our enhanced security efforts, our campuses are open to students, staff and visitors with a valid purpose. Please call +65 6390 9000 for enquiries."
+      ],
+      "patterns": [
+        "When are you open?",
+        "When is your campus open?",
+        "What are your opening hours?",
+        "Opening hours",
+        "Operating hours",
+        "What time are you open?",
+        "Are you open now?",
+        "Is your campus open?",
+        "Are you open on weekend?",
+        "What time can I visit?",
+        "what time will the psb academy start tomorrow?",
+        "Is psb open now "
+      ]
+    },
+    {
+      "tag": "Open House",
+      "entities": [],
+      "responses": [
+        "Our Open House is usually held twice a year, in January and April (subject to changes). Click <a href = 'https://www.psb-academy.edu.sg/virtual-notice-board/events' target ='_blank'>here</a> to view our upcoming events or follow us on <a href = 'https://www.facebook.com/psbacademy' target ='_blank'>Facebook</a> and <a href = 'https://www.instagram.com/psbacademy' target ='_blank'>Instagram</a> to get the latest updates."
+      ],
+      "patterns": [
+        "When is your next open house?",
+        "Open house",
+        "When is the open house?",
+        "When is your open house?",
+        "online open house",
+        "virtual open house",
+        "visit open house",
+        "go to open house",
+        "visit your open house",
+        "next open house",
+        "upcoming open house",
+        "open house",
+        "we overlooked the open house last weekend"
+      ]
+    },
+    {
+      "tag": "referral",
+      "entities": [],
+      "responses": [
+        "We offer referral rewards to students who recommend their family and friends to study with us. Find out more <a href = 'https://www.psb-academy.edu.sg/becoming-a-student/promotions/referral-rewards' target=_'blank'>here</a>."
+      ],
+      "patterns": [
+        "Referral",
+        "Is there any referral fee if i ask a friend to enroll for the course..",
+        "Do you offer referral rewards",
+        "referral rewards",
+        "Can I get referral reward",
+        "My friend wants to study at psb",
+        "Do you have referral if my friend wants to study",
+        "Friend study at psb",
+        "I want to refer my friend to psb",
+        "Reward refer friend to psb",
+        "refer a friend",
+        "refer a family",
+        "My friend wants to study in our institute ",
+        "How do referral works?"
+      ]
+    },
+    {
+      "tag": "Consultant didn't contact",
+      "entities": [],
+      "responses": [
+        "Our course consultants usually require 2-3 working days to reply. If you'd like to contact them directly, their contact details are available on the respective course pages (below the enquiry form)."
+      ],
+      "patterns": [
+        "There are no consultant calling me back for few days now",
+        "No consultant contact me",
+        "No one contact",
+        "No one call me",
+        "When consultant will contact",
+        "Waiting for consultant to contact",
+        "No one reply me",
+        "Consultant still hasn't contact",
+        "Still no contact",
+        "Waiting for consultant",
+        "please do. I left a message several times without responding",
+        "Waiting for the call from you"
+      ]
+    },
+    {
+      "tag": "IRAS course fee relief",
+      "entities": [],
+      "responses": [
+        "You may apply for IRAS Course Fee Relief for our courses. Click <a href = 'https://www.psb-academy.edu.sg/course-fundings/iras-course-fees-relief/' target=_blank>here</a> for more information."
+      ],
+      "patterns": [
+        "Hi, may I ask if I can apply for IRAS course fee relief if I’m studying a part time course in PSB?",
+        "Apply for IRAS fee relief",
+        "IRAS fee relief",
+        "IRAS course fee relief",
+        "IRAS tax relief",
+        "Eligible for IRAS fee relief",
+        "Claim tax relief",
+        "Claim tax relief on course fees",
+        "Are your courses tax deductible?",
+        "Tax deductible",
+        "May I ask if I can apply for IRAS course fee relief I’m studying a part time course in PSB?"
+      ]
+    },
+    {
+      "tag": "Mature candidates",
+      "entities": [],
+      "responses": [
+        "Mature candidates aged 30 years and above with 8 years work experience may apply for our selected diploma courses. If you do not meet this requirement, you may check with our course consultants directly. Their contact details are available on the respective course pages (below the enquiry form)."
+      ],
+      "patterns": [
+        "I am 27y/o with 9 years working experience. Would like to enquire i could utilize the 30y/o, 8years experience requirement for diploma courses.",
+        "Mature candidates",
+        "Can mature candidates apply?",
+        "Can older student apply?",
+        "Mid-career switch",
+        "Working professional",
+        "Switch career",
+        "Older person apply",
+        "Age limit",
+        "Any age limit",
+        "Matured candidate age flexibility"
+      ]
+    },
+    {
+      "tag": "Smart gantry",
+      "entities": [],
+      "responses": [
+        "To enhance our campus safety and security, we have installed a <a href = 'https://www.youtube.com/watch?v=1ZsxCFOUCXc' target=_blank>SmartGantry</a> at the entrance of our campuses, which is able to scan temperature and allow entry for students, staff and visitors with a valid purpose. If you'd like to visit our campuses, please make an appointment with a staff or call +65 6390 9000."
+      ],
+      "patterns": [
+        "Smart gantry",
+        "Do you have a gantry",
+        "What is smart gantry",
+        "Gantry at entrance",
+        "How to enter campus",
+        "Safe entry",
+        "Covid safety measures",
+        "Campus safety",
+        "Covid-19 measures",
+        "Covid-19 safety",
+        "Temperature screening",
+        "Scan temperature",
+        "can visitor visit psb campus",
+        "can i enter city campus?",
+        "can i visit the school for enquiries",
+        "Can I walk in ",
+        "Hi i would like to know if visiting school are allow at this period or have to go through appointment base?"
+      ]
+    },
+    {
+      "tag": "Make an appointment",
+      "entities": [],
+      "responses": [
+        "If you'd like to make an appointment with a course consultant, please fill in the enquiry form at the bottom part of <a href = 'https://www.psb-academy.edu.sg/courses#find-a-course' target=_blank>this page</a> to speak to a consultant. For corporate enquiries, please email to contactus@psb-academy.edu.sg."
+      ],
+      "patterns": [
+        "How to make apppointment",
+        "Make appointment",
+        "Make appointment with staff",
+        "Make appointment with consultant",
+        "Meet with consultant",
+        "Meet physically with consultant",
+        "Meet consulant in person",
+        "Meet in person",
+        "Appointment in campus",
+        "Meet in campus",
+        "appointment",
+        "Can I make an counselor appointment?"
+      ]
+    },
+    {
+      "tag": "Student hostel",
+      "entities": [],
+      "responses": [
+        "We offer accommodation for our international students. For information on our student hostel, please click <a href = 'https://www.psb-academy.edu.sg/becoming-a-student/new-to-singapore/accommodation/' target=_blank>here</a>."
+      ],
+      "patterns": [
+        "Students hostel fee",
+        "Student hostel",
+        "Do you have student hostel",
+        "Do you offer accomodation",
+        "Do you have hostel on campus",
+        "Do you offer hostel",
+        "Can I stay in hostel",
+        "Hostel",
+        "Accommodation",
+        "Accommodation on campus",
+        "Stay on campus",
+        "PSB Academy Student hostel @Pearl Hill rates ?"
+      ]
+    },
+    {
+      "tag": "Orientation",
+      "entities": [],
+      "responses": [
+        "We organise orientations for new students to familiarise with our campuses and meet their peers. If you're a new student, please look out for an email by your respective school. For more information, please contact your Programme Executive."
+      ],
+      "patterns": [
+        "Is that compulsory to join orientation online? ",
+        "Online orientation",
+        "Orientation for new students",
+        "Is your orientation held on campus?",
+        "Orientation on campus",
+        "Physical orientation",
+        "Orientation compulsory",
+        "When is my orientation",
+        "When is orientation",
+        "Must I go orientation"
+      ]
+    },
+    {
+      "tag": "Graduate enquiry",
+      "entities": [],
+      "responses": [
+        "For matters related to academic transcripts and certificates, please contact your respective school or Programme Executive. If you do not have their contact information, please email to contactus@psb-academy.edu.sg."
+      ],
+      "patterns": [
+        "Can I request for a e-copy of my cert and transcript?",
+        "Certificate",
+        "Transcript",
+        "Academic transcript",
+        "Copy of transcript",
+        "Collect certificate",
+        "Collect transcript",
+        "When will I get my certificate",
+        "When can collect certificate",
+        "hi I am I diploma student in mass media com",
+        "how can i get my cep transcript",
+        "I want to get my transcript",
+        "are we able to get our unofficial transcript?",
+        " GRADUATION CEREMONY",
+        "i want to request my officemtransscript"
+      ]
+    },
+    {
+      "tag": "Current Students",
+      "entities": [],
+      "responses": [
+        "If you are a current student with us and require student resources or services such as class schedule and academic matters, please click <a href = 'https://www.psb-academy.edu.sg/student-resources/' target=_blank>here</a>. If you need help regarding your current course and for other enquiries, please contact your respective Programme Executive."
+      ],
+      "patterns": [
+        "I'm current student of psb",
+        "Student resources",
+        "I'm a student and I have questions",
+        "Student information",
+        "Information for students",
+        "Student question",
+        "Learning resources",
+        "Student services",
+        "Student care",
+        "Student insurance",
+        "How long will it take to receive the transcript after examination ",
+        "Current student",
+        "Start of school",
+        "Can I know what my username and password  to log in ",
+        "Pls send the time table",
+        "results ",
+        "I have not receive my blackboard account username and password.",
+        "Blackboard account not given",
+        "HOW to enter the blackboard",
+        "Hi im dave from DBA",
+        "current student of ba hons accounting & finance",
+        "hi, can i know how to get the ID and password for t5he Balckboard login",
+        "class late",
+        "my blackboard account locked",
+        "how do I log in to my Blackboard for the first time?",
+        "hi, im a new student and have no account in the student blackboard for PSB diploma",
+        "Psb student id",
+        "student portal account reset",
+        "Trimester 2/2021",
+        "when is my exam?",
+        "I locked my own acc",
+        "where can I collect my student card?",
+        "where is the student login",
+        "Hi I need to defer",
+        "hi i cant log into my blackboard",
+        "Good morning I’m the student from informatics ",
+        "user account locked",
+        "Psb blackbaord account locked",
+        "where i can get the app np.",
+        "login",
+        "how to check exam results",
+        "hi, where can i get the psb campus wireless Internet password from?",
+        "student wifi",
+        "Where can i collect my student card",
+        "Student no",
+        "Do I need to bring laptop?",
+        "221 timetable",
+        "PSBAccess password not right",
+        "need to sign attendance",
+        "how do i change my name in my blackboard acc?",
+        "where is my courses calender",
+        "Hi,why my student portal acc is suspended?",
+        "Why is can’t I access the student portal? ",
+        "Leave of absence "
+      ]
+    },
+    {
+      "tag": "Marketing Course",
+      "entities": [],
+      "responses": [
+        "Thanks for your interest. Find out more about our marketing courses <a href='https://www.psb-academy.edu.sg/disciplines/marketing-courses' target ='_blank'>here</a>."
+      ],
+      "patterns": [
+        "Interested in digital marketing course",
+        "digital marketing",
+        "digital marketing course",
+        "i want to know more about digital marketing course",
+        "digital marketing course details",
+        "marketing course ",
+        "marketing courses information",
+        "i am looking for marketing courses",
+        "i am interested in marketing courses",
+        "Looking for Marketing degree course"
+      ]
+    },
+    {
+      "tag": "Part-time Students",
+      "entities": [],
+      "responses": [
+        "We offer both full-time and part-time options for our diploma, degree and postgraduate courses. Working professionals who are looking to upskill or make a mid-career switch are welcome to apply with us. Browse our courses <a href='https://www.psb-academy.edu.sg/courses#find-a-course' target=_blank>here</a>."
+      ],
+      "patterns": [
+        "Interested in part-time course",
+        "Part-time course",
+        "Do you offer part-time course?",
+        "Can I study part-time?",
+        "Can I work part-time while study?",
+        "I'm working full-time",
+        "Can I work while study?",
+        "Work and study",
+        "Can professionals apply?",
+        "Can workers apply?",
+        "Working part time"
+      ]
+    },
+    {
+      "tag": "Payment",
+      "entities": [],
+      "responses": [
+        "If you are looking to make payments for applications, course fees and other services, you may check out the different  <a href = 'https://www.psb-academy.edu.sg/student-resources/student-services/modes-of-payment/' target ='_blank'>modes of payment</a> that we offer.\n<br><br>\nIf you are facing issues with online payments via Visa or Mastercard, do check and ensure you have a stable internet connection. In addition, our website is not compatible on Internet Explorer browser as Windows has stop supporting Internet Explorer browser. You may use alternate website browsers (Google Chrome, Mozilla Firefox, Microsoft Edge) to make payments.\n<br><br>\nIf the issue still persists, please contact your respective Course Consultant or Programme Executive."
+      ],
+      "patterns": [
+        "Can't make payment",
+        "where to make payment",
+        "cannot pay",
+        "where to pay",
+        "payments",
+        "cannot make payments",
+        "pay",
+        "how to pay",
+        "How do I go about making payment via Credit card ",
+        "I need to make payment now ",
+        "make payment",
+        "Hi for my course fee first payment its possible i made through online payment ",
+        "how do I make online payment",
+        "where do I go to pay my tuition fees",
+        "mode of payment",
+        "I need to do payment for my assignment, no link found here ",
+        "Did the school receive my payment",
+        "online mastercard payment fail",
+        "School fee payment",
+        "Online MasterCard payment fail ",
+        "there is something wrong with your credit card payment"
+      ]
+    },
+    {
+      "tag": "PR & Work Permit",
+      "entities": [],
+      "responses": [
+        "Singapore permanent residents, employment pass, S pass and work permit holders are welcome to apply for our courses. Please speak to our course consultants for more information."
+      ],
+      "patterns": [
+        "Permanent residence able to apply?",
+        "Can PR apply",
+        "Can Permanent Resident apply",
+        "Courses for PR",
+        "Is PR eligible",
+        "work permit holder",
+        "Can work permit holder apply",
+        "Is work permit holder eligible",
+        "I am in work permit holder ",
+        "I’m permit holder working at Singapore. Can I know more about it ",
+        "I am basically from Indian but currently working in Singapore wp pass. I can study in diploma logistics course",
+        "Can a work permit holder study part time for degree courses?",
+        "I am working in Singapore as an account manager for 12 years. And I have a master of Science in Business with Financial Management. If I attend another Diploma or Master Full time course, could you apply Student Pass?"
+      ]
+    },
+    {
+      "tag": "Blog",
+      "entities": [],
+      "responses": [
+        "Find out more about your education options, career development, study tips, etc. and hear from our very own students and alumni via our <a href = 'https://www.psb-academy.edu.sg/blog' target=_blank>blog</a>."
+      ],
+      "patterns": [
+        "Which is the best time for study day or night ",
+        "How i inspired myself for study?",
+        "Education resources",
+        "Study tips",
+        "Study guide",
+        "Education guide",
+        "Career guide",
+        "Career development",
+        "blog",
+        "articles",
+        "Hi I need some information about the good time of study",
+        "When to study",
+        "How to conceal for long hours in study",
+        "How can i study at night and what is the best time for studying at night",
+        "How can i study at night",
+        "I won't catch up fast ",
+        "How to study hard",
+        "Um.... What is the time range for best hours of studying",
+        "How can I improve my concentration"
+      ]
+    },
+    {
+      "tag": "ISR",
+      "entities": [],
+      "responses": [
+        "Thanks for your enquiry. Please email our International team via ISRTeam@psb-academy.edu.sg for corporate enquiries."
+      ],
+      "patterns": [
+        "want to be an agent for psb academy from nepal",
+        "international agent",
+        "overseas agent",
+        "student agent",
+        "psb agent",
+        "can I be agent for psb?",
+        "refer international student to psb",
+        "Agent"
+      ]
+    },
+    {
+      "tag": "Dining options",
+      "entities": [],
+      "responses": [
+        "There are plenty of dining options around our campuses. City Campus @ Marina Square is located within a mall with various dining outlets. As for STEM Campus @ Jackson Square, there is a canteen within Jackson Square and other eateries nearby."
+      ],
+      "patterns": [
+        "Eating place",
+        "Where to eat around campus?",
+        "Canteen on campus",
+        "What is there to eat on campus?",
+        "What can I eat?",
+        "Food nearby campus",
+        "Canteen",
+        "Food",
+        "Where to eat?",
+        "Dining options",
+        "Do your school has canteen?",
+        "Is there a canteen on campus?"
+      ]
+    },
+    {
+      "tag": "IP UG Prospects",
+      "entities": [],
+      "responses": [
+        "We welcome N-Level, O-Level, A-Level, ITE and polytechnic graduates to apply for our courses. However, please take note that each course has a minimum entry requirement. Please visit our course pages <a href = 'https://www.psb-academy.edu.sg/courses#find-a-course' target ='_blank'>here</a> to find out more."
+      ],
+      "patterns": [
+        "Can ITE grad apply?",
+        "Can poly grad apply?",
+        "Can N-level grad apply?",
+        "Can O-level grad apply?",
+        "I'm an ITE grad",
+        "I have NITEC",
+        "I'm a poly grad",
+        "I have diploma",
+        "I have N-level",
+        "I have O-level",
+        "Can A-level grad apply?",
+        "I have A-level",
+        "Can ite grad apply also",
+        "O-level",
+        "N-level",
+        "A-level",
+        "ITE",
+        "Nitec",
+        "Higher Nitec",
+        "Polytechnic",
+        "Poly"
+      ]
+    }
+  ]
+}
